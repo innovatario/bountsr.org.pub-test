@@ -9,7 +9,7 @@ See example https://github.com/coinkite/bountsr.org.pub/
 
 If you see a bounty you'd like to also pled Sats too, just add to the total and add text stating it.
 
-Ie 
+i.e.:
 
 - "Joe pledges 100k Sats" link to note/tweet
 - "Jane pledges 150k Sats" link to note/tweet
